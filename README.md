@@ -26,6 +26,8 @@ Hardware implementation and verification workspace for the T81 ternary coprocess
 
 `docs/ecosystem-repos.tsv` is a machine-readable snapshot produced by `scripts/sync_ecosystem.sh`.
 
+Phase 3 simulation/verification tracker is documented in `docs/phase3-milestone-ladder.md`.
+
 ## Quick Start
 
 Requirements:
