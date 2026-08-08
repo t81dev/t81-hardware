@@ -1,6 +1,6 @@
 name	description	html_url	updated_at
 ANGELA		https://github.com/t81dev/ANGELA	2026-01-25T19:20:13Z
-digital-archaeology	A map of computing's unrealized possibilities—a place where historical artifacts are examined not just for what they were, but for what they might still become.	https://github.com/t81dev/digital-archaeology	2026-08-06T23:32:46Z
+digital-archaeology	A map of computing's unrealized possibilities—a place where historical artifacts are examined not just for what they were, but for what they might still become.	https://github.com/t81dev/digital-archaeology	2026-08-07T17:09:40Z
 duotronic-computing	Interpretive and contextual material exploring duotronic computing and the Ternary Logic Unit (TLU). This repository is non-normative and depends on the formal specification at t81dev/duotroic-whitepaper.	https://github.com/t81dev/duotronic-computing	2026-02-15T20:32:28Z
 duotronic-thesis		https://github.com/t81dev/duotronic-thesis	2026-01-26T15:51:39Z
 duotronic-whitepaper	A formal proposal and reference semantics for a ternary logic coprocessor that augments binary systems.	https://github.com/t81dev/duotronic-whitepaper	2026-02-08T23:32:03Z
@@ -10,7 +10,7 @@ t81-constraints	Epistemic constraints, assumptions, and failure boundaries gover
 t81-docs	Central hub with architecture overviews, installation guides, API references, visual explainers of balanced ternary, migration paths from binary, and a unified "getting started" for the whole stack.	https://github.com/t81dev/t81-docs	2026-02-09T01:58:00Z
 t81-examples	Curated demo	https://github.com/t81dev/t81-examples	2026-02-09T01:58:02Z
 t81-foundation	T81 is the first operating system built for governed, deterministic AI inference — ternary weights, bit-exact reproducibility, pre-side-effect policy enforcement, and immutable content-addressed storage.	https://github.com/t81dev/t81-foundation	2026-04-09T01:28:24Z
-t81-hardware	Verilog/VHDL simulations, testbenches, FPGA targeting scripts, or even a software emulator of the ternary co-processor.	https://github.com/t81dev/t81-hardware	2026-08-06T09:10:14Z
+t81-hardware	Verilog/VHDL simulations, testbenches, FPGA targeting scripts, or even a software emulator of the ternary co-processor.	https://github.com/t81dev/t81-hardware	2026-08-07T07:44:32Z
 t81-lang	T81Lang: the deterministic, balanced-ternary domain-specific language for the T81 ecosystem. Compiles to TISC IR and bytecode for HanoiVM execution with Axion safety guarantees.	https://github.com/t81dev/t81-lang	2026-02-09T20:18:00Z
 t81-python	High-level Python package on PyPI with clean APIs, type hints, and integration examples (e.g., with Hugging Face or llama.cpp Python bindings).	https://github.com/t81dev/t81-python	2026-02-08T23:21:02Z
 t81-roadmap	Public vision document, milestone tracking, contribution guidelines, and discussion of bigger picture (e.g., ternary-native ASICs, integration with quantum ideas, AGI implications).	https://github.com/t81dev/t81-roadmap	2026-08-03T11:03:43Z
